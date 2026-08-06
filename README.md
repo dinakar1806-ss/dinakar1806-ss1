@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! 👋 I'm Dinakar S S
 
-<!--
-**dinakar1806-ss/dinakar1806-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-Year Computer Science Engineering Student
 
-Here are some ideas to get you started:
+##  About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Currently learning Java, Python, HTML, CSS, and Git & GitHub
+-  Passionate about Software Development and Problem Solving
+-  Exploring Data Structures, OOP, and Full-Stack Development
+-  Goal: Become a Java Full-Stack Developer
+
+##  Technologies & Tools
+
+- Java
+- Python
+- HTML
+- CSS
+- Git
+- GitHub
+- VS Code
+
+##  Featured Projects
+
+Coming Soon...
+
+- Java Calculator
+- Student Management System
+- Library Management System
+
+##  Connect with Me
+
+- LinkedIn: https://www.linkedin.com/feed/
