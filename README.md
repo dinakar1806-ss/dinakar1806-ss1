@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Dinakar S S
+# Hi there! 👋I'm Dinakar S S
 
-🎓 Second-Year Computer Science Engineering Student
+ Second-Year Computer Science Engineering Student at SRMIST'29
 
 ##  About Me
 
@@ -20,8 +20,6 @@
 - VS Code
 
 ##  Featured Projects
-
-Coming Soon...
 
 - Java Calculator
 - Student Management System
