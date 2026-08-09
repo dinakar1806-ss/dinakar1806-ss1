@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class MaskedPhoneNumber {
+public class MaskedPhoneNumber  {
 
     static String maskPhoneNumber(String phone) {
 
