@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class BankTransactionReference {
-
+ 
     static String normalizeReference(String raw) {
 
     
