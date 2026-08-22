@@ -1,4 +1,4 @@
-# Hi there! 👋I'm Dinakar S S
+# Hi there! 👋I'm Dinakar SS
 
  Second-Year Computer Science Engineering Student at SRMIST'29
 
